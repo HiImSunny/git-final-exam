@@ -1,0 +1,3 @@
+Đây là dòng đầu tiên được viết trực tiếp trên GitHub web editor.
+Tính năng web editor giúp chỉnh sửa code mà không cần clone về local.
+GitHub web interface rất tiện lợi cho việc sửa nhanh documentation và config files.
