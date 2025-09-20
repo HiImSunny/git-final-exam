@@ -1,4 +1,6 @@
 Hello, this is Lương Duy Khang
+Xin chào, tôi là Lương Duy Khang
+Conflict resolved on 20/09/2025
 
 Xin chào, tôi là Lương Duy Khang, 22 tuổi, quê quán tại Bến Tre.
 Hiện tại tôi đang theo học tại Nam Cần Thơ University, chuyên ngành Công nghệ Thông tin.
