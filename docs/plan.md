@@ -25,7 +25,9 @@
 \*\*Thời gian học mỗi ngày:\*\* 3-4 tiếng, chia thành 2 buổi sáng và tối để tối ưu hiệu quả học tập.
 
 \*\*Đánh giá cuối tuần:\*\* Kiểm tra lại progress, ghi chú những khó khăn gặp phải và lên kế hoạch cải thiện cho tuần sau.
+\*\*Daily Standup:\*\* Ghi nhật ký học tập hàng ngày với format: What did I learn? What challenges? Next goals?
 
+<<<<<<< Updated upstream
 \*\*VS Code Extensions:\*\* GitLens, Prettier, ESLint để tối ưu coding experience và code quality.
 
 \*\*Online Platforms:\*\* Sử dụng Codepen và JSFiddle để test quick prototypes và chia sẻ code snippets.
@@ -33,4 +35,7 @@
 \*\*Learning Resources:\*\* Theo dõi kênh YouTube của Traversy Media và FreeCodeCamp cho tutorials chất lượng cao.
 
 \*\*Practice Platforms:\*\* HackerRank và LeetCode để rèn luyện algorithmic thinking và problem solving skills.
+=======
+\*\*Weekly Review:\*\* Tổng kết cuối tuần với metrics: lines of code written, concepts mastered, projects completed.
+>>>>>>> Stashed changes
 
