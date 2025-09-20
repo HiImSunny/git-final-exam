@@ -3,3 +3,5 @@
 - Git là công cụ version control mạnh mẽ giúp quản lý mã nguồn hiệu quả và an toàn
 - Việc sử dụng branch trong Git giúp phát triển tính năng mà không ảnh hưởng đến code chính
 - Git merge và conflict resolution dạy tôi cách làm việc nhóm một cách chuyên nghiệp
+- Các lệnh như git diff và git log giúp theo dõi lịch sử thay đổi rất chi tiết
+- Git reset và revert là những công cụ mạnh mẽ để quản lý và hoàn tác commits
