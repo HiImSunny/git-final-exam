@@ -1,0 +1,24 @@
+# Giới thiệu cá nhân
+
+Xin chào, tôi là Lương Duy Khang, 22 tuổi, quê quán tại Bến Tre.
+Hiện tại tôi đang theo học tại Nam Cần Thơ University, chuyên ngành Công nghệ Thông tin.
+Tôi là một người ham học hỏi và luôn tìm cách cập nhật những công nghệ mới nhất trong lĩnh vực IT.
+Với tính cách kiên trì và chăm chỉ, tôi đã đạt được GPA 3.2/4.0 trong năm học vừa qua.
+Mục tiêu của tôi là trở thành một Software Developer chuyên nghiệp, có thể đóng góp vào những dự án công nghệ có ý nghĩa.
+
+## Sở thích
+- Chơi game MOBA và FPS trong thời gian rảnh
+- Nghe nhạc EDM và Lo-fi khi coding
+- Đọc sách về công nghệ và khởi nghiệp
+
+## Kỹ năng
+- Lập trình Python và Java với kinh nghiệm 2+ năm
+- Thành thạo Git và GitHub cho quản lý mã nguồn
+- Khả năng giao tiếp tốt và làm việc nhóm hiệu quả
+
+## Kế hoạch học tập
+Trong 6 tháng tới, tôi sẽ hoàn thành khóa học React.js để nâng cao kỹ năng Frontend Development.
+Đồng thời học thêm Node.js và Express để trở thành Full-stack Developer hoàn chỉnh.
+Tôi dự định tham gia ít nhất 2 dự án nhóm để rèn luyện kỹ năng làm việc team và quản lý dự án.
+Mỗi tuần dành 3-4 tiếng để đọc tài liệu kỹ thuật và theo dõi các xu hướng công nghệ mới.
+Cuối năm nay, mục tiêu là có thể thực tập tại một công ty phần mềm để tích lũy kinh nghiệm thực tế.
