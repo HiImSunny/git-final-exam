@@ -26,5 +26,11 @@
 
 \*\*Đánh giá cuối tuần:\*\* Kiểm tra lại progress, ghi chú những khó khăn gặp phải và lên kế hoạch cải thiện cho tuần sau.
 
+\*\*VS Code Extensions:\*\* GitLens, Prettier, ESLint để tối ưu coding experience và code quality.
 
+\*\*Online Platforms:\*\* Sử dụng Codepen và JSFiddle để test quick prototypes và chia sẻ code snippets.
+
+\*\*Learning Resources:\*\* Theo dõi kênh YouTube của Traversy Media và FreeCodeCamp cho tutorials chất lượng cao.
+
+\*\*Practice Platforms:\*\* HackerRank và LeetCode để rèn luyện algorithmic thinking và problem solving skills.
 
