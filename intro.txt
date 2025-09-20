@@ -15,3 +15,10 @@ Mục tiêu của tôi là trở thành một Software Developer chuyên nghiệ
 - Lập trình Python và Java với kinh nghiệm 2+ năm
 - Thành thạo Git và GitHub cho quản lý mã nguồn
 - Khả năng giao tiếp tốt và làm việc nhóm hiệu quả
+
+## Kế hoạch học tập
+Trong 6 tháng tới, tôi sẽ hoàn thành khóa học React.js để nâng cao kỹ năng Frontend Development.
+Đồng thời học thêm Node.js và Express để trở thành Full-stack Developer hoàn chỉnh.
+Tôi dự định tham gia ít nhất 2 dự án nhóm để rèn luyện kỹ năng làm việc team và quản lý dự án.
+Mỗi tuần dành 3-4 tiếng để đọc tài liệu kỹ thuật và theo dõi các xu hướng công nghệ mới.
+Cuối năm nay, mục tiêu là có thể thực tập tại một công ty phần mềm để tích lũy kinh nghiệm thực tế.
