@@ -1,0 +1,5 @@
+# Cảm nhận về Git
+
+- Git là công cụ version control mạnh mẽ giúp quản lý mã nguồn hiệu quả và an toàn
+- Việc sử dụng branch trong Git giúp phát triển tính năng mà không ảnh hưởng đến code chính
+- Git merge và conflict resolution dạy tôi cách làm việc nhóm một cách chuyên nghiệp
